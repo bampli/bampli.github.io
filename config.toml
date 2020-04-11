@@ -1,0 +1,4 @@
+baseURL = "http://doc.bampli.com/"
+languageCode = "en-us"
+title = "bAmpli"
+theme = "book"
