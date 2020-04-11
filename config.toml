@@ -1,4 +1,4 @@
-baseURL = "http://doc.bampli.com/"
+baseURL = "http://docs.bampli.com/"
 languageCode = "en-us"
 title = "bAmpli"
 theme = "book"
